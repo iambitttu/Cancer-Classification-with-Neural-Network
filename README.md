@@ -10,13 +10,13 @@ TensorFlow is an open-source machine learning framework developed by Google for 
 
 **3. Data Preprocessing**
 
-Data preprocessing is a crucial step in cancer classification tasks. TensorFlow/Keras provides various utilities and functions to preprocess data efficiently. This may involve loading and parsing datasets, performing normalization, scaling features, handling missing values, and splitting data into training, validation, and test sets. TensorFlow's `tf.data` API is often used for efficient data pipeline construction.
+Data preprocessing is a crucial step in cancer classification tasks. TensorFlow/Keras provides various utilities and functions to preprocess data efficiently. This may involve loading and parsing datasets, performing normalization, scaling features, handling missing values, and splitting data into training, validation, and test sets. TensorFlow's `tf. data` API is often used for efficient data pipeline construction.
 
 **4. Architectures of Neural Networks**
 
 TensorFlow/Keras supports a wide range of neural network architectures for cancer classification, including:
 
-- Convolutional Neural Networks (CNNs): CNNs are effective for analyzing medical images such as mammograms, MRI scans, and histopathology slides. TensorFlow/Keras provides built-in layers like `Conv2D`, `MaxPooling2D`, and `Flatten` for constructing CNN architectures.
+- Convolutional Neural Networks (CNNs): CNNs are effective for analyzing medical images such as mammograms, MRI scans, and histopathology slides. TensorFlow/Keras provides built-in layers like `Conv2D`, `MaxPooling2D`, and `Flatten` for constructing CNN architectures
 
 - Deep Neural Networks (DNNs): DNNs are suitable for processing high-dimensional data like gene expression profiles or multi-omics data. TensorFlow/Keras offers fully connected layers (`Dense`) and activation functions for building DNN architectures.
 
