@@ -26,7 +26,7 @@ TensorFlow/Keras supports a wide range of neural network architectures for cance
 
 Training neural network models with TensorFlow/Keras involves specifying the model architecture, selecting an appropriate loss function (e.g., binary cross-entropy for binary classification, categorical cross-entropy for multi-class classification), choosing an optimizer (e.g., Adam, RMSprop), and defining evaluation metrics (e.g., accuracy, precision, recall).
 
-TensorFlow/Keras provides convenient APIs for model training, including the `model.compile()`, `model.fit()`, and `model.evaluate()` functions. Early stopping and model checkpointing callbacks can be utilized to prevent overfitting and save the best model based on validation performance.
+TensorFlow/Keras provides convenient APIs for model training, including the `model. compile()`, `model.fit()`, and `model.evaluate()` functions. Early stopping and model checkpointing callbacks can be utilized to prevent overfitting and save the best model based on validation performance.
 
 **6. Challenges and Considerations**
 
