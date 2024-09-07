@@ -50,4 +50,4 @@ Future research and development efforts in cancer classification with TensorFlow
 
 **8. Conclusion**
 
-TensorFlow/Keras provides a robust framework for cancer classification using neural networks, offering tools and functionalities for data preprocessing, model development, training, and evaluation. While challenges such as data scarcity and model interpretability persist, ongoing research and innovation hold the promise of leveraging TensorFlow/Keras to improve cancer diagnosis and patient outcomes.
+TensorFlow provides a robust framework for cancer classification using neural networks, offering tools and functionalities for data preprocessing, model development, training, and evaluation. While challenges such as data scarcity and model interpretability persist, ongoing research and innovation hold the promise of leveraging TensorFlow/Keras to improve cancer diagnosis and patient outcomes.
