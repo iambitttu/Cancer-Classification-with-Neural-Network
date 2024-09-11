@@ -20,7 +20,7 @@ TensorFlow/Keras supports a wide range of neural network architectures for cance
 
 - Deep Neural Networks (DNNs): DNNs are suitable for processing high-dimensional data like gene expression profiles or multi-omics data. TensorFlow/Keras offers fully connected layers (`Dense`) and activation functions for building DNN architectures.
 
-- Transfer Learning: Transfer learning, leveraging pre-trained models like those from the TensorFlow Hub or models trained on large datasets like ImageNet, can be applied to medical imaging tasks to boost performance, especially with limited labeled data.
+- Transfer Learning: Levering pre-trained models like those from the TensorFlow Hub or models trained on large datasets like ImageNet, can be applied to medical imaging tasks to boost performance, especially with limited labeled data.
 
 **5. Training and Evaluation**
 
